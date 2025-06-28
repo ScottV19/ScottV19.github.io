@@ -25,25 +25,25 @@ Graduated cum laude for Chemistry
 Research experience
 ======
 * Ph.D. candidate in extragalactic astronomy <br>
+Nov 2024 - Present <br>
 *Advisor*: Prof. Dr. H.J.A. Röttgering <br>
 The Leiden Observatory, University of Leiden <br>
-Nov 2024 - Present <br>
 *Research interests*: Evolution of Active Galactic Nuclei and the interplay with their environment through AGN feedback using large astronomical surveys <br>
 *Scientific Collaborations*:
   * [LOw Frequency ARray](https://www.astron.nl/telescopes/lofar/) (LOFAR)
   * [Euclid Consortium](https://www.euclid-ec.org/) (EC)
 
 * MSc thesis: Exploring the connection between γ-ray and neutrino production in blazar jets <br>
+Aug 2023 - Aug 2024 <br>
 *Advisor*: Prof. Dr. S. B. Markoff <br>
-Anton Pannekoek Institute (API) for Astronomy and Institute for GRavitation AstroParticle Physics Amsterdam (GRAPPA), University of Amsterdam <br>
-Aug 2023 - Aug 2024
+Anton Pannekoek Institute (API) for Astronomy and Institute for GRavitation AstroParticle Physics Amsterdam (GRAPPA), University of Amsterdam
   * Semi-analytical master research project on blazar jets.
   * Systematic comparison of single-zone and multi-zone models for relativistic jets in blazars.
 
 * BSc thesis: Investigating the properties of interstellar dust through the iron L-edges <br>
+Feb 2022 - Jul 2024 <br>
 *Advisor*: Dr. E. Costantini <br>
-Netherlands Institute for Space Research (SRON), Leiden <br>
-Feb 2022 - Jul 2024
+Netherlands Institute for Space Research (SRON), Leiden
   * Interdisciplinary bachelor research project on astrochemistry. 
   * Characterized the X-ray absorption spectrum specifically around the iron L-edge (650-800 keV) of different minerals believed to be present in the interstellar medium.
 
