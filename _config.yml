@@ -25,9 +25,9 @@ author:
   avatar           : "CV-foto.jpg"
   name             : "Scott Visser"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "PhD candidate in extragalactic astronomy"
+  bio              : "PhD candidate in extragalactic astronomy at the Leiden Observatory"
   location         : "Utrecht, The Netherlands"
-  employer         : "Leiden Observatory, Leiden University"
+  employer         : "Leiden University"
   uri              : # URL
   email            : "visserscott@strw.leidenuniv.nl" 
 
