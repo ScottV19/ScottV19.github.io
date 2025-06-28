@@ -13,4 +13,4 @@ In addition to doing research, I have a passion for teaching and academic outrea
 
 Feel free to browse around this webpage and I am happy to connect if you have questions, comments or if just want to talk.
 
-Credit: This webpage was made using the template powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+Credit: This webpage was made using the template powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com/).
