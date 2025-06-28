@@ -11,54 +11,82 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. candidate in extragalactic astronomy at the Leiden Observatory, University of Leiden (NL), Nov 2024 - Present
+* MSc Physics & Astronomy: Gravitation, Astro- and Particle Physics (GRAPPA), University of Amsterdam (NL), Aug 2022 - Aug 2024
+GPA 9.2/10.0
+Graduated cum laude
+* Double BSc degree  in Physics & Astronomy and Chemistry, University of Utrecht (NL), Aug 2018 - Jul 2022
+GPA 8.4/10.0
+Graduated cum laude for Chemistry
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. candidate in extragalactic astronomy
+*Advisor*: Prof. Huub Röttgering
+The Leiden Observatory, University of Leiden
+Nov 2024 - Present
+*Research interests*: Evolution of Active Galactic Nuclei and the interplay with their environment through AGN feedback using large astronomical surveys
+*Scientific Collaborations*:
+  * [LOw Frequency ARray](https://www.astron.nl/telescopes/lofar/) (LOFAR)
+  * [Euclid Consortium](https://www.euclid-ec.org/) (EC)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* MSc thesis: Exploring the connection between γ-ray and neutrino production in blazar jets
+*Advisor*: Prof. S. B. Markoff
+Anton Pannekoek Institute (API) for Astronomy and Institute for GRavitation AstroParticle Physics Amsterdam (GRAPPA), University of Amsterdam
+Aug 2023 - Aug 2024
+  * Semi-analytical master research project on blazar jets.
+  * Systematic comparison of single-zone and multi-zone models for relativistic jets in blazars.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* BSc thesis: Investigating the properties of interstellar dust through the iron L-edges
+*Advisor*: Dr. E. Costantini
+Netherlands Institute for Space Research (SRON), Leiden
+Feb 2022 - Jul 2024
+  * Interdisciplinary bachelor research project on astrochemistry. 
+  * Characterized the X-ray absorption spectrum specifically around the iron L-edge (650-800 keV) of different minerals believed to be present in the interstellar medium.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+MSc Research Grant
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Volkert van der Willigen grant – €3500 (Sep 2023)
+* Issued by the University of Amsterdam
+* Each academic year, one second-year GRAPPA MSc student receives this grant.
+* Grant is awarded based on submitted research proposal and on student's past academic performance.
   
-Teaching
+Science Education
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Planetarium employee
+*Nederlandse Onderzoeksschool voor Astronomie(NOVA), Leiden*
+  * Visiting both primary and secondary schools to teach children aged 4 to 18 in a mobile planetarium.
+  * Topics are the earth, the solar system, stars and the universe.
+  * 2-4 full days a month
+
+* High school tutor
+*Lyceo, Utrecht*
+  * Training students in studying strategies like summarising, planning, and making notes, using Lyceo’s teaching methods. 
+  * Also involves tutoring in specific subjects and surveillance during exams. 
+  * 2-4 hours a week
+
+* Voluntary teacher Altair project
+*University of Amsterdam, Amsterdam*
+  * Teach children aged 9 to 12 about astronomy and what it means to do science
+
+Conference Organisaton
 ======
-* Currently signed in to 43 different slack teams
+* Local Organising Committee (LOC) Kick-off Meeting ERC BlackHolistic
+February 1 and 2, 2024, Amsterdam (NL)
+
+Programming Skills
+======
+* Python – extensive training in multiple courses during both BSc and MSc
+*Libraries*: [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [AstroPy](https://www.astropy.org/), [PyTorch](https://pytorch.org/), [PyBDSF](https://pybdsf.readthedocs.io/en/latest/)
+* C++ – used to write and alter relativistic jet models for MSc research
+* ISIS (Interactive Spectral Interpretation System) – used to fit multi-wavelength data of blazars during my MSc research project
+* IDL (Interactive Data Language) – used to analyse X-ray absorption spectra during my BSc research project
+* LaTeX
+* Microsoft Office – Word, Excel, PowerPoint
+
+Language Proficiency
+======
+* Dutch – Native language
+* English – C2 proficiency
+* German – B2 proficiency
