@@ -4,7 +4,7 @@ collection: teaching-outreach
 type: "teaching-outreach"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
-date: 'None'
+date: None
 location: "Leiden, The Netherlands"
 ---
 
