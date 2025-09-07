@@ -4,7 +4,7 @@ collection: teaching-outreach
 type: "Teaching Assistant"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
-date: none
+date: 2025-01-01
 location: "Leiden, The Netherlands"
 ---
 
