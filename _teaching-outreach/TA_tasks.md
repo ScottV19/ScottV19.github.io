@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant (TA)"
 collection: teaching-outreach
-type: "teaching-outreach"
+type: "Teaching Assistant"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
 date: "none"

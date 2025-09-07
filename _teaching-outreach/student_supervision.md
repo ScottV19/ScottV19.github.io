@@ -1,7 +1,7 @@
 ---
 title: "Supervising students"
 collection: teaching-outreach
-type: "teaching-outreach"
+type: "Student Supervision"
 permalink: /teaching-outreach/student_supervision
 venue: "Leiden University, Leiden Observatory"
 date: "none"
