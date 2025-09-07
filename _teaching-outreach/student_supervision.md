@@ -4,6 +4,7 @@ collection: teaching-outreach
 type: "teaching-outreach"
 permalink: /teaching-outreach/student_supervision
 venue: "Leiden University, Leiden Observatory"
+date: 2025-01-01
 location: "Leiden, The Netherlands"
 ---
 
