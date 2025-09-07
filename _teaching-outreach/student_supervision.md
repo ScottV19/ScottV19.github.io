@@ -8,8 +8,6 @@ date: 01-11-2024 - Present
 location: "Leiden, The Netherlands"
 ---
 
-{% include base_path %}
-
 Students supervised during their research projects during my PhD
 ======
 BSc students: 2 (BSc students work in pairs at the Leiden Observatory)
