@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Leiden, The Netherlands"
 ---
 
-List of course at the Leiden Observatory for which I acted as a teaching assistant
+List of courses at the Leiden Observatory for which I acted as a teaching assistant
 ======
 
 
