@@ -3,7 +3,7 @@ title: "BSc thesis: Investigating the properties of interstellar dust through th
 collection: publications
 category: previous_work
 permalink: /publication/2022-06-15-BSc-thesis
-excerpt: 
+excerpt: This BSc thesis focused on characterising the iron L-edge spectral profile for different interstellar dust species. Understanding the extinction, scattering and absorption properties of different dust species is crucial for analysing and interpreting current and future observations with X-ray telescopes like the planned Athena mission for example.
 date: 2022-06-15
 venue: 'UU thesis library'
 paperurl: 'http://scottv19.github.io/files/BSc_thesis_final_15-6-2022.pdf'
