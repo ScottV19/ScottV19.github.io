@@ -1,0 +1,16 @@
+---
+title: "Supervising students"
+collection: teaching
+type: "Research projects"
+permalink: /teaching-outreach/student_supervision
+venue: "Leiden University, Leiden Observatory"
+date: 01-11-2024 - Present
+location: "Leiden, The Netherlands"
+---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Students supervised during their research projects during my PhD
+======
+BSc students: 2 (BSc students work in pairs at the Leiden Observatory)
+MSc students: 3 (MSc students work on an individual basis at the Leiden Observatory)
