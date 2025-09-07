@@ -1,7 +1,7 @@
 ---
 title: "Supervising students"
 collection: teaching
-type: "Research projects"
+type: "teaching-outreach"
 permalink: /teaching-outreach/student_supervision
 venue: "Leiden University, Leiden Observatory"
 date: 01-11-2024 - Present

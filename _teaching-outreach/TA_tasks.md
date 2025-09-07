@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant (TA)"
 collection: teaching
-type: "courses"
+type: "teaching-outreach"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
 date: 01-11-2024 - Present
