@@ -251,10 +251,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching-outreach
   - scope:
       path: ""
-      type: teaching
+      type: teaching-outreach
     values:
       layout: single
       author_profile: true

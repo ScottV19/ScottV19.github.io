@@ -307,7 +307,7 @@ def parse_talks(talks_dir):
     return talks
 
 def parse_teaching(teaching_dir):
-    """Parse teaching from the _teaching directory."""
+    """Parse teaching from the _teaching-outreach directory."""
     teaching = []
     
     if not os.path.exists(teaching_dir):
