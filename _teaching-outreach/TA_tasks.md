@@ -4,7 +4,6 @@ collection: teaching-outreach
 type: "teaching-outreach"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
-date: 01-11-2024 - Present
 location: "Leiden, The Netherlands"
 ---
 
