@@ -1,5 +1,6 @@
 ---
 title: "BSc thesis: Investigating the properties of interstellar dust through the iron L-edges"
+---
 collection: publications
 category: previous_work
 permalink: /publication/2022-06-15-BSc-thesis
