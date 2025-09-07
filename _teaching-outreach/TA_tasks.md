@@ -8,6 +8,10 @@ date: 2025-01-01
 location: "Leiden, The Netherlands"
 ---
 
+List of course at the Leiden Observatory for which I acted as a teaching assistant
+======
+
+
 Science and the public: contemporary and historical perspectives
 ======
 Semester 2, 2024-2025, MSc <br>
