@@ -8,7 +8,7 @@ date: 01-11-2024 - Present
 location: "Leiden, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include base_path %}
 
 Students supervised during their research projects during my PhD
 ======
