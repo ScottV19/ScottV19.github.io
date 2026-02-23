@@ -4,11 +4,11 @@ collection: teaching-outreach
 type: "Teaching Assistant"
 permalink: /teaching-outreach/ta
 venue: "Leiden University, Leiden Observatory"
-date: 2025-01-01
+#date: 2025-01-01
 location: "Leiden, The Netherlands"
 ---
 
-List of courses at the Leiden Observatory for which I acted as a teaching assistant
+Courses at the Leiden Observatory for which I acted as a teaching assistant
 ======
 
 
