@@ -31,7 +31,7 @@ Nov 2024 -- Present <br>
 [The Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), University of Leiden (NL) <br>
 *Research interests*: The evolution of Active Galactic Nuclei and the interplay with their environment through AGN feedback using large astronomical surveys <br>
 *Scientific Collaborations*:
-  * [LOw Frequency ARray](https://www.astron.nl/telescopes/lofar/) (LOFAR)
+  * [LOw Frequency ARray](https://lofar-surveys.org/surveys.html) (LOFAR)
   * [Euclid Consortium](https://www.euclid-ec.org/) (EC)
 
 * MSc thesis: Exploring the connection between γ-ray and neutrino production in blazar jets <br>
@@ -60,28 +60,28 @@ MSc Research Grant
 Science Education
 ======
 * Member of Inpsire Society Committee <br>
-Nov 2024 -- Present
+Nov 2024 -- Present <br>
 *Leiden Observatory, Leiden University, Leiden (NL)*
   * Visiting primary schools in and around Leiden to teach children aged 9 to 10 about astronomy
   * Teaching program created and organised by PhD students at the Leiden Observatory
   * Visit 2-3 schools each year for five 2-hour lessons
 
 * Planetarium employee <br>
-Nov 2022 -- Aug 2024
+Nov 2022 -- Aug 2024 <br>
 *Nederlandse Onderzoeksschool voor Astronomie (NOVA), Leiden (NL)*
   * Visiting both primary and secondary schools to teach children aged 4 to 18 about astronomy in a mobile planetarium.
   * Topics are the earth, the solar system, stars and the universe.
   * 2-4 full days a month
 
 * High school tutor <br>
-Aug 2020 -- Jul 2024
+Aug 2020 -- Jul 2024 <br>
 *Lyceo, Utrecht (NL)*
   * Training students in studying strategies like summarising, planning, and making notes, using Lyceo’s teaching methods. 
   * Also involves tutoring in specific subjects and surveillance during exams. 
   * 2-4 hours a week
 
 * Voluntary teacher Altair project <br>
-Sep 2023 -- Aug 2024
+Sep 2023 -- Aug 2024 <br>
 *University of Amsterdam, Amsterdam (NL)*
   * Teach children aged 9 to 12 about astronomy and what it means to do science
 
@@ -94,17 +94,17 @@ Conference Organisaton
 
 Programming Skills
 ======
-* Python – Extensive training in multiple courses during both BSc and MSc. Also heavily used to write pipelines for data analysi  of large-sky surveys during PhD. <br>
+* Python -- Extensive training in multiple courses during both BSc and MSc. Also heavily used to write pipelines for data analysi  of large-sky surveys during PhD. <br>
 *Libraries*: [AstroPy](https://www.astropy.org/), [Matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/), [PyTorch](https://pytorch.org/), [PyBDSF](https://pybdsf.readthedocs.io/en/latest/), [SciPy](https://scipy.org/)
-* C++ – Used to write and improve relativistic jet models during my MSc research project
-* ISIS (Interactive Spectral Interpretation System) – Used to fit multi-wavelength data of blazars during my MSc research project
-* IDL (Interactive Data Language) – Used to analyse X-ray absorption spectra during my BSc research project
+* C++ -- Used to write and improve relativistic jet models during my MSc research project
+* ISIS (Interactive Spectral Interpretation System) -- Used to fit multi-wavelength data of blazars during my MSc research project
+* IDL (Interactive Data Language) -- Used to analyse X-ray absorption spectra during my BSc research project
 * LaTeX
-* Microsoft Office – Word, Excel, PowerPoint, OneNote
+* Microsoft Office -- Word, Excel, PowerPoint, OneNote
 
 
 Language Proficiency
 ======
-* Dutch – Native language
-* English – C2 proficiency
-* German – B2 proficiency
+* Dutch -- Native language
+* English -- C2 proficiency
+* German -- B2 proficiency
