@@ -26,13 +26,13 @@ author:
   name             : "Scott Visser"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "PhD candidate in extragalactic astronomy at the Leiden Observatory"
-  location         : "Arnhem, Gelderland, The Netherlands"
+  location         : "Arnhem, Gelderland \n The Netherlands"
   employer         : "Leiden University"
   uri              : # URL
   email            : "visserscott@strw.leidenuniv.nl" 
 
   # Academic websites
-  academia         : "https://universiteitleiden.nl/medewerkers/scott-visser#tab-1" # URL
+  academia         : "https://www.universiteitleiden.nl/en/staffmembers/scott-visser#tab-1" # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
