@@ -1,5 +1,5 @@
 ---
-title: "The Alignment Between Radio Galaxies in LoTSS DR3 and Their Host Galaxy Counterparts in Euclid DR1"
+title: "Euclid: Data Release 1 (DR1) -- The Alignment Between Radio Galaxies in LoTSS DR3 and Their Host Galaxy Counterparts in Euclid DR1"
 collection: publications
 category: papers
 permalink: /publication/2026_Paper_Radio-Optical_Alignment
@@ -7,5 +7,5 @@ excerpt: "It is well known that the supermassive black hole at the center of a g
 date: 2026-06-01
 venue: ''
 paperurl: ''
-citation: 'Visser et al. (in prep.), &quot; The Alignment Between Radio Galaxies in LoTSS DR3 and Their Host Galaxy Counterparts in Euclid DR1.&quot'
+citation: 'Visser et al. (in prep.), &quot;Euclid: Data Release 1 (DR1) -- The Alignment Between Radio Galaxies in LoTSS DR3 and Their Host Galaxy Counterparts in Euclid DR1&quot'
 ---
