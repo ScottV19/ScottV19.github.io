@@ -59,12 +59,12 @@ MSc Research Grant
 
 Science Education
 ======
-* Member of Inpsire Society Committee <br>
+* Member of Inspire Society Committee <br>
 Nov 2024 -- Present <br>
 *Leiden Observatory, Leiden University, Leiden (NL)*
   * Visiting primary schools in and around Leiden to teach children aged 9 to 10 about astronomy
   * Teaching program created and organised by PhD students at the Leiden Observatory
-  * Visit 2-3 schools each year for five 2-hour lessons
+  * 2-3 schools each year for five 2-hour lessons
 
 * Planetarium employee <br>
 Nov 2022 -- Aug 2024 <br>
