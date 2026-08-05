@@ -9,6 +9,7 @@ location: "Leiden, The Netherlands"
 ---
 
 # Courses at the Leiden Observatory for which I acted as a teaching assistant
+
 ## Science and the public: contemporary and historical perspectives
 Course description: [https://studiegids.universiteitleiden.nl/en/courses/122684/science-and-the-public-contemporary-and-historical-perspectives](https://studiegids.universiteitleiden.nl/en/courses/122684/science-and-the-public-contemporary-and-historical-perspectives) <br>
 - Semester 2, 2024-2025, MSc
