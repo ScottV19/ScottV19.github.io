@@ -1,11 +1,11 @@
 ---
-title: "Euclid: Quick Data Release 1 (Q1) --  The fraction of radio-loud AGN in the EDF-N"
+title: "Euclid: Quick Data Release 1 (Q1) -- Evolution of the radio-loud AGN fraction–stellar mass relation to z∼3 in the Euclid Deep Field North"
 collection: publications
 category: papers
 permalink: /publication/2026_Paper_AGN_fraction
 excerpt: 'The incidence of Radio-Loud Active Galactic Nuclei (RLAGN) and their energetic output through AGN feedback is a crucial component in understanding the evolution of galaxies and the Universe. To better understand RLAGN incidence and feedback, their relation with host galaxy properties has been thoroughly studied in the local Universe. Especially the host stellar mass has been shown to strongly correlate with radio AGN activity. Using the large statistics provided by the Euclid and LOw Frequency ARray (LOFAR) surveys, we present the first study of the RLAGN incidence - stellar mass relation up to z ∼ 3.0 beyond the epoch of cosmic noon. We first performed a stringent cross-matching and subsequently eliminated potential contamination originating from the cross-matching, the stellar mass incompleteness and star formation rate estimates. This yielded a sample of 3410 RLAGN in the Euclid Deep Field North. The resulting RLAGN incidence as a function of stellar mass and radio luminosity shows a very tight correlation over 2 orders of magnitude in mass up to z ∼ 3.0. The power law relation between RLAGN incidence and stellar mass is shown to flatten with cosmic time implying a relative increase in low-mass RLAGN at earlier epochs. At z ≥ 2, this effect is shown to be independent of whether galaxies are star-forming or quiescent, but with time these two sub-populations do evolve differently. Our results suggest a clear evolutionary picture where the RLAGN population transitions from cold mode dominated accretion at earlier epochs to a more mass-dependent hot mode accretion in the local Universe.'
 date: 2026-06-01
-venue: ''
+venue: 'Astronomy & Astrophysics'
 paperurl: ''
-citation: 'Visser & Röttgering (in prep.), &quot;Euclid: Quick Data Release 1 (Q1) --  The fraction of radio-loud AGN in the EDF-N&quot'
+citation: 'Visser et al. (in prep.), &quot;Euclid: Quick Data Release 1 (Q1) -- Evolution of the radio-loud AGN fraction–stellar mass relation to z∼3 in the Euclid Deep Field North&quot'
 ---
